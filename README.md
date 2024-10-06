@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @lipharegojbruna
+- 👀 I’m interested in FOSS and privacy
+- 🌱 I’m currently learning anything I can
+- 💞️ I’m looking to collaborate on some FOSS projects
+- 📫 How to reach me ...
